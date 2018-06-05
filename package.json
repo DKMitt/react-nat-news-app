@@ -1,0 +1,25 @@
+{
+  "name": "react-nat-news-app",
+  "version": "0.1.0",
+  "description": "react-nat-news-app",
+  "private": false,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DKMitt/react-nat-news-app.git"
+  },
+  "author": "D. K. Mittlestaedt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DKMitt/react-nat-news-app/issues"
+  },
+  "homepage": "https://github.com/DKMitt/react-nat-news-app#readme",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-native-elements": "^0.19.1",
+    "react-native-vector-icons": "^4.6.0"
+  },
+  "devDependencies": {}
+}
