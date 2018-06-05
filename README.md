@@ -7,7 +7,7 @@ This app is a simple and easy-to-use API that returns JSON metadata for news hea
 ![News App with JavaScript and React Native]()
 <br>
 
-__Project Status - In Process: 05/31/2018__
+__Project Status - In Process: 06/05/2018__
 
 [Demo - Click Here]() - __Best Used with Chrome__
 
@@ -29,7 +29,7 @@ __Project Status - In Process: 05/31/2018__
 
 
 ### Description
-
+Work in progress, please check back soon!
 
 <br>
 
@@ -62,6 +62,7 @@ __Libraries used__
 - moment
 - react-native
 - react-native-elements
+- react-native-vector-icons
 
 <br>
 
@@ -107,6 +108,10 @@ __Libraries used__
 ├── index.js
 │ 
 ├── LICENSE
+│ 
+├── package-lock.json
+│ 
+├── package.json
 │
 └── README.md     
        
@@ -139,5 +144,5 @@ Royal News is [MPL licensed](https://github.com/dkmitt/react-nat-news-app/blob/m
 
 Description of revisions - __In Process: 05/31/2018__
 
-  - [x] Dev - file and directory structure updated - 05/31/2018
-  - [x] Dev - starting code - 05/31/2018
+  - [x] Dev - file and directory structure updated - 06/05/2018
+  - [x] Dev - Working on code - 06/05/2018
