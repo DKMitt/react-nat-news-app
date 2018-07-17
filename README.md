@@ -131,7 +131,6 @@ API key and for more information on [NewsAPI.org](https://www.newsapi.org/)
 
 Royal News is [MPL licensed](https://github.com/dkmitt/react-nat-news-app/blob/master/LICENSE)
 
-
 ----
 
 
