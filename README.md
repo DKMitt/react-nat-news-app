@@ -1,11 +1,10 @@
 # News App with JavaScript and React Native
 
 
-This app is a simple and easy-to-use API that returns JSON metadata for news headlines and articles live from [NewsAPI.org](https://www.newsapi.org/) using React Native.
+This app is a simple and easy-to-use API that returns JSON metadata for news headlines and articles live from [NewsAPI.org](https://newsapi.org/) using React Native.
 
 
 __Project Status - Completed: 07/17/2018__
-
 
 ----
 
@@ -20,14 +19,12 @@ __Project Status - Completed: 07/17/2018__
   -  License
   -  Revision History  
 
-
 ----
 
 
 ### Description
 
-A breif tutorial on how to work with react-native, and newsapi.org to return JSON metadata for news headlines and articles live from [NewsAPI.org](https://www.newsapi.org/) and outputting the returned results via react-native.
-
+A breif tutorial on how to work with react-native, and newsapi.org to return JSON metadata for news headlines and articles live from [NewsAPI.org](https://newsapi.org/) and outputting the returned results via react-native.
 
 ----
 
@@ -38,7 +35,6 @@ A breif tutorial on how to work with react-native, and newsapi.org to return JSO
 - How to start working with React-Native
 - How to do a pull down to refresh on a native app
 - Linking
-
 
 ----
 
@@ -62,7 +58,6 @@ __Libraries used__
 
 Requirements: [Android Studio](https://developer.android.com/studio/) or [Xcode](https://developer.apple.com/xcode/), [npm](https://nodejs.org/), and [React Native](https://facebook.github.io/react-native/).
 
-
 ----
 
 
@@ -70,7 +65,6 @@ Requirements: [Android Studio](https://developer.android.com/studio/) or [Xcode]
 
 - Install the dependencies by runinning npm i 
 - Run react-native run-android or react-native run-ios depending on your platform.
-
 
 ----
 
@@ -121,8 +115,7 @@ GitHub [msal4/royal_news](https://github.com/msal4/royal_news)
 
 Medium FreeCodeCamp [How to build a news app with React Native](https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627)
 
-API key and for more information on [NewsAPI.org](https://www.newsapi.org/)
-
+API key and for more information on [NewsAPI.org](https://newsapi.org/)
 
 ----
 
